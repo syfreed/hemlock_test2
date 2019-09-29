@@ -11,7 +11,7 @@ imgkit
 numpy
 pandas
 pillow
-#psycopg2
+psycopg2
 python-docx
 requests
 selenium
